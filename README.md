@@ -1,5 +1,3 @@
-
-![snake](https://raw.githubusercontent.com/pmarket/pmarket/output/github-snake.svg)
 ### Привет, я Соня 🌸
 #### Веб-разработчик
 
