@@ -32,7 +32,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+  ![snake gif](https://github.com/Hametova00/Hametova00/blob/output/github-snake-dark.svg)
 </p>
 
 ---
