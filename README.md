@@ -1,6 +1,6 @@
 <!-- ══════════ ШАПКА (тёмная / светлая тема) ══════════ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=190&section=header&text=Hametova00&fontSize=52&fontColor=f0f6fc&fontAlignY=36&desc=Developer%20·%20Creator%20·%20Learner&descAlignY=56&descSize=16&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C100:30363d&height=190&section=header&text=Hametova00&fontSize=52&fontColor=f0f6fc&fontAlignY=36&desc=Developer%20·%20Creator%20·%20Learner&descAlignY=56&descSize=16&animation=fadeIn" />
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f6f8fa,100:d0d7de&height=190&section=header&text=Hametova00&fontSize=52&fontColor=24292f&fontAlignY=36&desc=Developer%20·%20Creator%20·%20Learner&descAlignY=56&descSize=16&animation=fadeIn" />
 </picture>
 
@@ -9,14 +9,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=620&lines=Пишу+код+и+учусь+каждый+день;Люблю+делать+красивые+и+полезные+вещи;Открыта+к+новым+проектам+и+идеям&color=F0F6FC" />
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=620&lines=Пишу+код+и+учусь+каждый+день;Люблю+делать+красивые+и+полезные+вещи;Открыта+к+новым+проектам+и+идеям&color=24292F" alt="typing" />
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-30363d?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-30363d?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-30363d?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-30363d?style=for-the-badge&logo=css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-30363d?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <p align="center">
@@ -31,7 +23,7 @@
 
 Занимаюсь разработкой и постоянно пробую что-то новое. Люблю, когда проект не просто работает, а ещё и аккуратно выглядит.
 
-- 🌱 Сейчас изучаю: **Python**, **JavaScript**, **Git**
+- 🌱 Сейчас изучаю: **Python**, **C#**, **Git**
 - 🎯 Цель на год: довести до конца свой первый большой проект
 - 💬 Можно спросить меня про: учёбу, код, идеи для проектов
 - ⚡ Интересный факт: *напиши здесь что-то о себе*
@@ -43,8 +35,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,html,css,cs,git,github,vscode,figma&perline=9&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,cs,git,github,vscode,figma&perline=9&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Ccs%2Chtml%2Cgit%2Cvisualstudio&perline=5&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,cs,html,git,visualstudio&perline=5&theme=light" />
   </picture>
 </p>
 
@@ -55,12 +47,12 @@
 
 <table align="center">
   <tr>
-    <td align="center" colspan="2"><b>Название проекта</b> — <i>короткое описание</i></td>
+    <td align="center" colspan="2"><b>Debug Quest</b> — <i>пиксельная RPG про то, как устроен компьютер</i></td>
   </tr>
-  <tr><td>🎯</td><td>Главная идея проекта</td></tr>
-  <tr><td>⚙️</td><td>Что уже готово</td></tr>
-  <tr><td>📌</td><td>Что планирую добавить дальше</td></tr>
-  <tr><td>🖥</td><td>На чём сделано / где работает</td></tr>
+  <tr><td>🎯</td><td>Учит основам информатики через сюжетное приключение</td></tr>
+  <tr><td>⚙️</td><td>Готовы пролог, три главы и около 40 мини-игр</td></tr>
+  <tr><td>📌</td><td>Дальше — новые главы и задания по Python</td></tr>
+  <tr><td>🖥️</td><td>HTML5 + JavaScript, работает в браузере на ПК и телефоне</td></tr>
 </table>
 
 ---
@@ -112,6 +104,6 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:0d1117&height=110&section=footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:30363d%2C100:0d1117&height=110&section=footer" />
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d0d7de,100:f6f8fa&height=110&section=footer" />
 </picture>
