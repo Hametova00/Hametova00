@@ -1,86 +1,94 @@
-<!-- ═══════════ ШАПКА ═══════════ -->
+<!-- ════════════════ ШАПКА ════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1612,55:1f3329,100:3a1a20&height=170&text=Hametova00&fontColor=e8c4cf&fontSize=54&fontAlignY=46&desc=код%20·%20идеи%20·%20атмосфера&descAlignY=72&descSize=16&animation=fadeIn" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=26&duration=3500&pause=1200&color=E8C4CF&center=true&vCenter=true&width=620&lines=Делаю+проекты+с+характером;Учусь+каждый+день;Тихо%2C+красиво%2C+со+смыслом" alt="typing" />
+  <img src="./banner.png" width="100%" alt="Hametova00" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/статус-в%20работе-1f3329?style=flat-square&labelColor=0d1612&color=7fb069" />
-  <img src="https://komarev.com/ghpvc/?username=Hametova00&label=просмотры&color=8b2635&style=flat-square" />
+  <a href="https://github.com/Hametova00">
+    <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=28&duration=3200&pause=900&color=E8A3BB&center=true&vCenter=true&width=700&lines=Привет!+Добро+пожаловать+в+мой+лес+🌿;Пишу+код%2C+который+хочется+открыть+ещё+раз;Люблю+туман%2C+тёмные+темы+и+красивые+интерфейсы;Сейчас+в+работе+—+кое-что+очень+атмосферное+✨" alt="typing" />
+  </a>
 </p>
 
-<br/>
-
-<!-- ═══════════ ОБО МНЕ ═══════════ -->
-### ⟡ обо мне
-
-> Пишите здесь пару строк о себе — кто вы, чем занимаетесь и что любите делать.
-
-- **сейчас изучаю** — Python, JavaScript, Git
-- **интересно** — дизайн, игры, веб
-- **цель** — довести до конца свой первый большой проект
-
-<br/>
-
-<!-- ═══════════ СТЕК ═══════════ -->
-### ⟡ инструменты
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0d1612?style=for-the-badge&logo=python&logoColor=e8c4cf" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1612?style=for-the-badge&logo=javascript&logoColor=e8c4cf" />
-  <img src="https://img.shields.io/badge/HTML-0d1612?style=for-the-badge&logo=html5&logoColor=e8c4cf" />
-  <img src="https://img.shields.io/badge/CSS-0d1612?style=for-the-badge&logo=css&logoColor=e8c4cf" />
-  <img src="https://img.shields.io/badge/C%23-0d1612?style=for-the-badge&logo=dotnet&logoColor=e8c4cf" />
-  <img src="https://img.shields.io/badge/Git-0d1612?style=for-the-badge&logo=git&logoColor=e8c4cf" />
-  <img src="https://img.shields.io/badge/Figma-0d1612?style=for-the-badge&logo=figma&logoColor=e8c4cf" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hametova00&label=гостей+в+лесу&color=3b7d52&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Hametova00?label=подписчики&style=for-the-badge&color=b0476a&labelColor=1a2620" />
+  <img src="https://img.shields.io/badge/статус-открыта%20к%20идеям-6fbf73?style=for-the-badge&labelColor=1a2620" />
 </p>
 
-<br/>
+---
 
-<!-- ═══════════ ПРОЕКТ ═══════════ -->
-### ⟡ сейчас в работе
+<!-- ════════════════ ОБО МНЕ ════════════════ -->
+## 🌿 Обо мне
 
-<table>
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Hametova00&show_icons=true&hide_border=true&bg_color=0f1a15&title_color=e8a3bb&icon_color=6fbf73&text_color=d6e8dc&ring_color=b0476a&locale=ru" />
+
+Я делаю проекты, в которых есть **настроение** — чтобы было не просто «работает», а *приятно смотреть и пользоваться*.
+
+- 🌱 **Изучаю:** Python, JavaScript, Git
+- 🎨 **Вдохновляюсь:** туманными лесами, книгами и тёмной эстетикой
+- 🧩 **Люблю:** придумывать идеи и доводить их до красивого результата
+- 🎯 **Цель:** выпустить свой первый большой проект
+- ☕ **Факт:** *(впиши сюда что-нибудь о себе)*
+
+<br clear="right"/>
+
+---
+
+<!-- ════════════════ СТЕК ════════════════ -->
+## 🛠 Инструменты
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,cs,unity,git,github,vscode,figma&perline=10" />
+</p>
+
+---
+
+<!-- ════════════════ ПРОЕКТ ════════════════ -->
+## 🌫 Сейчас в разработке
+
+<table align="center">
   <tr>
-    <td width="640">
-      <b>Название проекта</b><br/>
-      <sub><i>короткое описание в одну строку</i></sub>
-      <br/><br/>
-      ◦ главная идея<br/>
-      ◦ что уже готово<br/>
-      ◦ что будет дальше
-    </td>
+    <td align="center" colspan="2"><b>✨ Название проекта</b> — <i>короткое описание</i></td>
   </tr>
+  <tr><td>🎯</td><td>Главная идея проекта</td></tr>
+  <tr><td>⚙️</td><td>Что уже готово</td></tr>
+  <tr><td>🗺</td><td>Что будет дальше</td></tr>
+  <tr><td>🖥</td><td>На чём сделано / где работает</td></tr>
 </table>
 
-<br/>
+---
 
-<!-- ═══════════ СТАТИСТИКА ═══════════ -->
-### ⟡ статистика
+<!-- ════════════════ СТАТИСТИКА ════════════════ -->
+## 📊 Статистика
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hametova00&show_icons=true&hide_border=true&bg_color=0d1612&title_color=e8c4cf&icon_color=7fb069&text_color=b7c4bb&ring_color=8b2635&locale=ru" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hametova00&layout=compact&hide_border=true&bg_color=0d1612&title_color=e8c4cf&text_color=b7c4bb&locale=ru" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Hametova00&hide_border=true&background=0f1a15&ring=b0476a&fire=6fbf73&currStreakNum=e8a3bb&sideNums=e8a3bb&currStreakLabel=e8a3bb&sideLabels=d6e8dc&dates=8aa394&stroke=24543a&locale=ru" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hametova00&layout=compact&hide_border=true&bg_color=0f1a15&title_color=e8a3bb&text_color=d6e8dc&locale=ru" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hametova00&hide_border=true&background=0d1612&ring=8b2635&fire=7fb069&currStreakNum=e8c4cf&sideNums=e8c4cf&currStreakLabel=e8c4cf&sideLabels=b7c4bb&dates=6b7a70&stroke=1f3329&locale=ru" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hametova00&bg_color=0f1a15&color=d6e8dc&line=6fbf73&point=e8a3bb&area=true&area_color=3b7d52&hide_border=true&custom_title=Активность%20за%20месяц" />
 </p>
 
-<br/>
-
-<!-- ═══════════ КОНТАКТЫ ═══════════ -->
-### ⟡ связь
-
-<p>
-  <a href="https://t.me/ВАШ_НИК"><img src="https://img.shields.io/badge/Telegram-8b2635?style=for-the-badge&logo=telegram&logoColor=e8c4cf" /></a>
-  <a href="mailto:ВАША_ПОЧТА"><img src="https://img.shields.io/badge/Почта-8b2635?style=for-the-badge&logo=gmail&logoColor=e8c4cf" /></a>
-</p>
-
-<!-- ═══════════ ПОДВАЛ ═══════════ -->
+<!-- ════════════════ ЗМЕЙКА ════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a1a20,45:1f3329,100:0d1612&height=6" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hametova00/Hametova00/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/Hametova00/Hametova00/output/snake-light.svg" alt="змейка" />
+  </picture>
+</p>
+
+---
+
+<!-- ════════════════ КОНТАКТЫ ════════════════ -->
+## 💌 Связь со мной
+
+<p align="center">
+  <a href="https://t.me/ВАШ_НИК"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:ВАША_ПОЧТА"><img src="https://img.shields.io/badge/Почта-b0476a?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Hametova00"><img src="https://img.shields.io/badge/GitHub-24543a?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=18&duration=4000&pause=2000&color=8AA394&center=true&vCenter=true&width=500&lines=спасибо%2C+что+заглянули+в+мой+лес+🌿" />
 </p>
