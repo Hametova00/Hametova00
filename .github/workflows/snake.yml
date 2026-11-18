@@ -30,8 +30,7 @@ jobs:
           GH_USER: ${{ github.repository_owner }}
           GH_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           OUT_DIR: dist
-        run: python3 scripts/profile_cards.py
-
+        run: python3 "$(find . -name 'profile_cards.py' -not -path './dist/*' | head -n 1)"
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
