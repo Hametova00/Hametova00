@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230">
+  <style>
+    .t{font:800 76px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#fe428e;letter-spacing:2px;animation:up 1s ease-out both}
+    .s{font:600 22px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#ffffff;letter-spacing:4px;animation:up 1s .3s ease-out both}
+    @keyframes up{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+  </style>
+  <path fill="#141321" d="M0 0H1200V170C1080 205 960 215 820 190C660 162 540 150 380 180C240 206 110 210 0 185Z"/>
+  <path fill="#fe428e" opacity=".18" d="M0 185C110 210 240 206 380 180C540 150 660 162 820 190C960 215 1080 205 1200 170V188C1080 222 960 230 820 206C660 178 540 166 380 196C240 222 110 226 0 202Z"/>
+  <text class="t" x="600" y="102" text-anchor="middle">Hametova00</text>
+  <text class="s" x="600" y="146" text-anchor="middle">DEVELOPER · CREATOR · LEARNER</text>
+  <rect x="560" y="156" width="80" height="4" rx="2" fill="#f8d847"/>
+</svg>

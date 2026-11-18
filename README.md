@@ -1,6 +1,6 @@
 <!-- ══════════ ШАПКА ══════════ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=141321&height=200&section=header&text=Hametova00&fontSize=56&fontColor=fe428e&fontAlignY=36&desc=Developer%20%C2%B7%20Creator%20%C2%B7%20Learner&descAlignY=56&descSize=18&animation=fadeIn" />
+  <img width="100%" src="./assets/header.svg" alt="Hametova00" />
 </p>
 
 <p align="center">
@@ -93,5 +93,5 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=141321&height=110&section=footer" />
+  <img width="100%" src="./assets/footer.svg" alt="" />
 </p>
